@@ -1,17 +1,5 @@
-# Notebooks docsify template.
+# 新媒体工作手册
 
-Template for building notebooks with [docsify](https://github.com/docsifyjs/docsify/).
+## 简介
 
-## Usage
-
-Clone it with [degit](https://github.com/Rich-Harris/degit):
-
-```bash
-npx degit monkeyandres/docsify-notebooks my-notebook-collection
-cd my-notebook-collection
-yarn install # or npm
-```
-
-## Configuration
-
-Read the [docsify](https://github.com/docsifyjs/docsify/) documentation for knowing what to configure.
+本手册将对新媒体部门所有人开放，涉及有“平台”“手机号”“设备”等多维度的管理和操作流程
